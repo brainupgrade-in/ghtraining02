@@ -1,3 +1,3 @@
 funtion  one(){
-    print('print one line')
+    print('print one line ')
 }
